@@ -2,7 +2,7 @@
 - 👀 I’m interested in develoment
 - 🌱 I’m currently workin on personal proyects
 
-Look at my page
+Look at my page </br>
 100 Days CSS Challenge
 https://efom-f63c0.web.app/design/
 
